@@ -32,7 +32,7 @@ def fase_1():
     time.sleep(1)
     digitar_pausado(Fore.GREEN + "Acesso físico detectado no Laboratório Particular.")
     time.sleep(1)
-    digitar_pausado(Fore.WHITE + "\n[MENSAGEM DO SISTEMA]:")
+    digitar_pausado(Fore.WHITE + "\nApós meses de investigação sobre o paradeiro do Dr. Alistair Vance, você finalmente consegue acesso físico ao seu laboratório particular. No centro da sala, um terminal de fósforo verde antigo permanece ligado. A tela está bloqueada por um protocolo de segurança de baixo nível, emitindo um brilho hipnótico. Não há campos para digitar nomes, apenas um prompt de comando aguardando uma sequência de identificação.:")
     digitar_pausado(Fore.YELLOW + "A base de tudo é a memória. Identifique-se para iniciar o protocolo.")
     
     print("\n" + Fore.GREEN + "-"*60)
