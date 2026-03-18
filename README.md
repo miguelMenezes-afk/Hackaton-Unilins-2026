@@ -1,4 +1,4 @@
-# 🚩 Hackathon: O Legado de Vance (The Vance Legacy)
+# 🚩 Hackathon - Unilins - 2026 : O Legado de Vance (The Vance Legacy)
 
 Bem-vindo ao **The Vance Legacy**, um desafio imersivo de lógica, programação e cibersegurança. Você assume o papel de um investigador infiltrado no laboratório do desaparecido Dr. Alistair Vance. Para revelar a verdade, você precisará interagir com terminais antigos, decifrar comunicações e reconstruir algoritmos corrompidos.
 
