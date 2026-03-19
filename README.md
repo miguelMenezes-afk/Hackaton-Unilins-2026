@@ -5,7 +5,7 @@ Bem-vindo ao **The Vance Legacy**, um desafio imersivo de lógica, programação
 ---
 
 ## 🛠️ Tecnologias e Conceitos Aplicados
-* **Linguagens:** C / Python (Lógica e Automação).
+* **Linguagens:** Python (Lógica e Automação).
 * **Criptografia:** Cifras de Cesar e sistemas de substituição.
 * **Matemática Computacional:** Aritmética modular e teoria dos números.
 * **Forense Digital:** Esteganografia e análise de metadados em arquivos.
