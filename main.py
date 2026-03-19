@@ -6,6 +6,7 @@ from colorama import Fore, Style, init
 # Inicializa o colorama para cores no terminal
 init(autoreset=True)
 
+# Revisar a mudança de cores 
 def digitar_pausado(texto, atraso=0.05):
     """Simula o efeito de uma máquina de escrever no terminal."""
     for char in texto:
