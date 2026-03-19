@@ -39,7 +39,6 @@ Bem-vindo ao **The Vance Legacy**, um desafio imersivo de lógica, programação
 ## 📜 Regras de Engajamento
 1.  **Conexão Narrativa:** Chaves e nomes encontrados em fases iniciais serão cruciais para o sucesso em etapas avançadas.
 2.  **Elegância sobre Força Bruta:** O sistema de Vance recompensa a lógica matemática precisa.
-3.  **Documentação:** Mantenha um registro das descobertas (como o Checksum e o Nome da Herdeira).
 
 ---
 
